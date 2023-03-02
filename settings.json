@@ -1,0 +1,6 @@
+{
+    "ethereum_node": "https://eth-mainnet.gateway.pokt.network/v1/5f3453978e354ab992c4da79",
+    "bsc_node": "https://bsc-dataseed.binance.org",
+    "polygon_node": "https://polygon-bor.publicnode.com",
+    "arbitrum_node": "https://arbitrum-one-rpc-germany.allthatnode.com"
+}
